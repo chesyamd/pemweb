@@ -1,0 +1,28 @@
+langkah-langkah pengerjaan
+
+1. menyiapkan struktur project
+Membuat folder tugas2 untuk menyimpan seluruh file website, yaitu index.html, berita.html, detail_mahasiswa.html, tambah_data.html, dan logo.
+
+2. membuat halaman utama
+Membuat index.html sebagai halaman dashboard yang terdiri dari header, logo, navigation menu, konten utama, informasi tambahan, dan footer.
+
+3. menerapkan struktur HTML semantik
+Menggunakan elemen header, nav, main, section, article, aside, dan footer untuk menyusun bagian-bagian halaman sesuai fungsinya.
+
+4. membuat halaman berita
+Membuat berita.html untuk menampilkan berita terkait ITERA. Isi berita disusun menggunakan elemen article dan informasi tambahan menggunakan aside.
+
+5. membuat halaman detail mahasiswa
+Membuat detail_mahasiswa.html untuk menampilkan informasi mahasiswa dan data akademik menggunakan tabel. Data yang digunakan berupa data dummy.
+
+6. membuat halaman tambah data
+Membuat tambah_data.html yang berisi form untuk memasukkan data mahasiswa menggunakan elemen form, label, input, dan button.
+
+7. menghubungkan antarhalaman
+Menambahkan hyperlink pada navigation menu dan bagian tertentu agar setiap halaman dapat saling diakses.
+
+8. melakukan validasi dan pengujian
+Memvalidasi seluruh file HTML menggunakan W3C Validator serta menguji link, tabel, form, dan gambar melalui browser.
+
+9. melakukan hosting
+Mengunggah project ke repository GitHub pemweb pada folder tugas2, kemudian mengaktifkan GitHub Pages agar website dapat diakses secara online.
